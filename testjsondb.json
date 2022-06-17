@@ -1,0 +1,36 @@
+{
+    "categories":[
+        {
+            "categoryName": "Cat1",
+            "posts": [
+                {
+                    "title": "post title1"
+                }
+            ]
+        },
+        {
+            "categoryName": "Category 2",
+            "posts":[
+                {
+                    "title": "Lorem Ipsum"
+                }
+            ]
+        },
+        {
+            "categoryName": "Category 3",
+            "posts":[
+                {
+                    "title": "sdafm Ipsum"
+                }
+            ]
+        },
+        {
+            "categoryName": "Category 4",
+            "posts":[
+                {
+                    "title": "dolor Ipsum"
+                }
+            ]
+        }
+    ]
+  }
