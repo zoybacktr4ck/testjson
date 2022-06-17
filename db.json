@@ -1,6 +1,7 @@
 {
     "categories":[
         {
+            "id": 1,
             "categoryName": "Cat1",
             "posts": [
                 {
@@ -9,6 +10,7 @@
             ]
         },
         {
+            "id": 2,
             "categoryName": "Category 2",
             "posts":[
                 {
@@ -17,6 +19,7 @@
             ]
         },
         {
+            "id": 3,
             "categoryName": "Category 3",
             "posts":[
                 {
@@ -25,6 +28,7 @@
             ]
         },
         {
+            "id": 4,
             "categoryName": "Category 4",
             "posts":[
                 {
